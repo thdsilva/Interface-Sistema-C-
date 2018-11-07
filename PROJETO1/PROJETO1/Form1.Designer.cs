@@ -51,7 +51,6 @@
             this.txtTelefone = new System.Windows.Forms.TextBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.btnCadastrar = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtNome
@@ -1048,16 +1047,6 @@
             this.btnCadastrar.UseVisualStyleBackColor = false;
             this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(68, 145);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(35, 13);
-            this.label3.TabIndex = 22;
-            this.label3.Text = "label3";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
-            // 
             // frmCadastro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1066,7 +1055,6 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(1034, 458);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.lblTelefone);
             this.Controls.Add(this.lblEmail);
@@ -1125,7 +1113,6 @@
         private System.Windows.Forms.TextBox txtTelefone;
         private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.Button btnCadastrar;
-        private System.Windows.Forms.Label label3;
     }
 }
 

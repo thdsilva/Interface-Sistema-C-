@@ -1,0 +1,10 @@
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\bin\Debug\PROJETO1.exe.config
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\bin\Debug\PROJETO1.exe
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\bin\Debug\PROJETO1.pdb
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\obj\Debug\PROJETO1.csprojAssemblyReference.cache
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\obj\Debug\PROJETO1.Properties.Resources.resources
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\obj\Debug\PROJETO1.csproj.GenerateResource.cache
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\obj\Debug\PROJETO1.csproj.CoreCompileInputs.cache
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\obj\Debug\PROJETO1.exe
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\obj\Debug\PROJETO1.pdb
+C:\Users\lapsobeta\Desktop\P1\PROJETO1\PROJETO1\obj\Debug\PROJETO1.frmCadastro.resources
